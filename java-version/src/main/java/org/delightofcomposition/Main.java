@@ -12,7 +12,7 @@ import org.delightofcomposition.sound.WaveWriter;
 import org.delightofcomposition.synth.SimpleSynth;
 import org.delightofcomposition.synth.Synth;
 import org.delightofcomposition.util.ProgressBar;
-import org.delightofcomposition.voiceleading.VoiceLeading;
+
 
 public class Main {
     public static void main(String[] args) {
