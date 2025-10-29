@@ -7,7 +7,7 @@ import org.delightofcomposition.sound.FFT2;
 import org.delightofcomposition.sound.ReadSound;
 
 public class SimpleSynth extends Synth {
-    double origFreq;
+    public double origFreq;
     double[] wetSig;
     double[] sample;
 
